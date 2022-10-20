@@ -1,0 +1,7 @@
+{
+  "name": "ionic-geocaching",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
